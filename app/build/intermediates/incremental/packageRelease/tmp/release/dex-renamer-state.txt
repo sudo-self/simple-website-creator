@@ -1,0 +1,4 @@
+#Fri Oct 25 07:01:09 MDT 2024
+base.0=/Users/xyz/Desktop/resume/simple-website-creator/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

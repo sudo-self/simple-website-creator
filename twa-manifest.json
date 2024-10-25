@@ -12,7 +12,7 @@
   "navigationDividerColorDark": "#000000",
   "backgroundColor": "#FFFFFF",
   "enableNotifications": true,
-  "startUrl": "/",
+  "startUrl": "/simple-website-creator/",
   "iconUrl": "https://sudo-self.github.io/simple-website-creator/favicon-512.png",
   "splashScreenFadeOutDuration": 300,
   "signingKey": {
@@ -20,7 +20,7 @@
     "alias": "android"
   },
   "appVersionName": "1",
-  "appVersionCode": 1,
+  "appVersionCode": 2,
   "shortcuts": [],
   "generatorApp": "bubblewrap-cli",
   "webManifestUrl": "https://sudo-self.github.io/simple-website-creator/manifest.json",
